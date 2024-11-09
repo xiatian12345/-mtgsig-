@@ -1,0 +1,25 @@
+{
+	"name": "switch_background",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.7.0",
+		"bytenode": "^1.5.6",
+		"consola": "^3.2.3",
+		"cors": "^2.8.5",
+		"express": "^4.19.2",
+		"morgan": "^1.10.0",
+		"puppeteer-core": "^22.9.0",
+		"shelljs": "^0.8.5"
+	},
+	"devDependencies": {
+		"javascript-obfuscator": "^4.1.1"
+	}
+}
